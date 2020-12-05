@@ -8,4 +8,5 @@ package com.entity;
 public class User {
     private String username;
     private String string;
+    private Integer password;
 }
