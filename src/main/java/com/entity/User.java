@@ -9,4 +9,5 @@ public class User {
     private String username;
     private String string;
     private String birth;
+    private Integer id;
 }
